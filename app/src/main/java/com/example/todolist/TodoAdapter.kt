@@ -18,7 +18,7 @@ class TodoAdapter(
 ) : RecyclerView.Adapter<TodoAdapter.TodoViewHolder>() {
 
     /**
-     * View Holder  (inherits RecycleView)
+     * View Holder (inherits RecyclerView)
      */
     class TodoViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView)
 

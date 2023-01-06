@@ -12,7 +12,7 @@ import kotlinx.android.synthetic.main.activity_main.*
  */
 class MainActivity : AppCompatActivity() {
 
-    // Global variable (initialize later - line 20)
+    // Global variable (initialize later - line 22)
     private lateinit var todoAdapter: TodoAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
